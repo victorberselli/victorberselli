@@ -1,4 +1,4 @@
-<hr>
+
 I'm a tech worker 👷<br/>
 <hr>
 I´m living in the hellcity <br>
