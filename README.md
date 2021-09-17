@@ -5,4 +5,4 @@ Technology worker living in cuiabá 👷
 #Cuiabrasa i love you <br>
 <hr>
 <br/>
-<span style='font-size:100px;'>&#128125;</span>
+<span style='font-size:100px;'>&#9996;&#128125;</span>
